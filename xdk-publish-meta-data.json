@@ -1,0 +1,40 @@
+{
+  "categorization": {
+    "type": "APPLICATION",
+    "category": "Video"
+  },
+  "description": {
+    "texts": {
+      "title": "Watch Videos",
+      "features": [
+        "Youtube.com"
+      ],
+      "short-description": "online",
+      "full-description": "lalala",
+      "keywords": "video streaming",
+      "recent-changes": "",
+      "privacy-policy": "",
+      "eula": ""
+    },
+    "images": {
+      "screenshots": [],
+      "app-icon-small": "",
+      "app-icon": "",
+      "small-promo": "",
+      "large-promo": ""
+    },
+    "videos": {
+      "video-url": ""
+    }
+  },
+  "packages": {
+    "zip-file": "",
+    "apk-file": "",
+    "secondary-apk-file": ""
+  },
+  "support": {
+    "email": "nadyaprabaningrum@gmail.com",
+    "website": ""
+  },
+  "testing-instructions": ""
+}
